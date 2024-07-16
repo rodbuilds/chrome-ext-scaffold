@@ -2,8 +2,6 @@
 
 ### Servamp is a developer on this project
 
-I'm here
+# Rodney is a develop on this project
 
-Servamp is awesome because:
--good friend
--tall
+I'm here
